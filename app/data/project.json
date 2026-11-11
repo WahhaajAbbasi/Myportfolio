@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Online Chef Booking Platform",
+    "subtitle": "Chef On Call",
+    "techStack": ["Next.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
+    "description": "An online chef booking platform built with Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB.",
+    "image": "/chef-booking-cover.svg",
+    "imageAlt": "Chef On Call project illustration",
+    "link": "/contact-us",
+    "buttonText": "Ask About This Project"
+  },
+  {
+    "id": 2,
+    "name": "Original License Plate Detection System",
+    "subtitle": "OLPDS",
+    "techStack": ["YOLOv5", "Tesseract OCR", "Next.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    "description": "A license plate detection system using YOLOv5 and Tesseract OCR, with a web application built using Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS.",
+    "image": "/license-plate-cover.svg",
+    "imageAlt": "License plate detection project illustration",
+    "link": "/contact-us",
+    "buttonText": "Ask About This Project"
+  },
+  {
+    "id": 3,
+    "name": "AI-Based CQI Process Tool",
+    "techStack": ["Python", "Django", "Tailwind CSS", "SQLite"],
+    "description": "A Django tool built with Tailwind CSS and SQLite for user management, role-based access, dynamic forms, and report generation.",
+    "image": "/cqi-tool-cover.svg",
+    "imageAlt": "CQI process tool illustration",
+    "link": "/contact-us",
+    "buttonText": "Ask About This Project"
+  },
+  {
+    "id": 4,
+    "name": "MFC Fast Food",
+    "techStack": [],
+    "description": "A web app for a local food business, built during my role at BrainArt Marketing to manage products and orders.",
+    "image": "/mfc.png",
+    "imageAlt": "MFC Fast Food logo",
+    "imageFit": "contain",
+    "link": "https://mfcfastfoods.com/",
+    "buttonText": "Visit Website"
+  },
+  {
+    "id": 5,
+    "name": "Appie React",
+    "techStack": [],
+    "description": "A product landing page with service navigation, login and get-started actions, and a mobile spending-app preview.",
+    "image": "/project-images/appie-react.png",
+    "imageAlt": "Appie React website preview",
+    "link": "https://appie-react-puce.vercel.app/",
+    "buttonText": "Open Project"
+  },
+  {
+    "id": 6,
+    "name": "Omni Food",
+    "techStack": [],
+    "description": "A meal delivery landing page with meal photography and sections for how it works, meals, testimonials, and pricing.",
+    "image": "/project-images/omni-food.png",
+    "imageAlt": "Omni Food website preview",
+    "link": "https://omni-food-rose.vercel.app/",
+    "buttonText": "Open Project"
+  },
+  {
+    "id": 7,
+    "name": "Ecome",
+    "techStack": [],
+    "description": "An e-commerce storefront with search, category navigation, promotional banners, and shopping controls.",
+    "image": "/project-images/ecome.png",
+    "imageAlt": "Ecome website preview",
+    "link": "https://e-commerce-qm8p.vercel.app/dashboard",
+    "buttonText": "Open Project"
+  },
+  {
+    "id": 8,
+    "name": "Figma",
+    "techStack": ["Figma"],
+    "description": "A startup directory landing-page design created in Figma, with search, recommended listings, and Create/Login navigation.",
+    "image": "/project-images/figma.png",
+    "imageAlt": "Landing-page design created in Figma",
+    "link": "https://next-js-seven-psi-89.vercel.app/",
+    "buttonText": "Open Project"
+  },
+  {
+    "id": 9,
+    "name": "Immunicare",
+    "subtitle": "Freelance Medical Project",
+    "techStack": [],
+    "description": "A freelance medical project for patients to track their vaccination histories and find nearby vaccine availability, including clinic and vaccine details.",
+    "image": "/immunicare-cover.svg",
+    "imageAlt": "Illustration for Immunicare vaccination history and nearby availability features",
+    "link": "/contact-us",
+    "buttonText": "Ask About This Project"
+  }
+]

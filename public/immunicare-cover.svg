@@ -1,0 +1,34 @@
+<svg width="900" height="500" viewBox="0 0 900 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102A43"/>
+      <stop offset="1" stop-color="#123E4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="268" y1="105" x2="637" y2="397" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" rx="28" fill="url(#bg)"/>
+  <circle cx="732" cy="94" r="120" fill="#34D399" fill-opacity=".09"/>
+  <circle cx="142" cy="430" r="150" fill="#67E8F9" fill-opacity=".08"/>
+  <rect x="115" y="106" width="670" height="288" rx="26" fill="#0B1F33" stroke="#33566A" stroke-width="2"/>
+  <path d="M115 132a26 26 0 0 1 26-26h618a26 26 0 0 1 26 26v37H115v-37Z" fill="#15364A"/>
+  <circle cx="145" cy="143" r="7" fill="#FB7185"/>
+  <circle cx="169" cy="143" r="7" fill="#FBBF24"/>
+  <circle cx="193" cy="143" r="7" fill="#34D399"/>
+  <text x="450" y="153" text-anchor="middle" fill="#E6FFFB" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">IMMUNICARE</text>
+  <rect x="149" y="199" width="275" height="158" rx="18" fill="#123047" stroke="#2B5265"/>
+  <circle cx="186" cy="236" r="19" fill="#0E7490" fill-opacity=".35"/>
+  <path d="M186 226v20m-10-10h20" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <text x="220" y="242" fill="#D9F7F2" font-family="Arial, sans-serif" font-size="15" font-weight="700">VACCINATION HISTORY</text>
+  <path d="M177 277h214M177 310h170M177 340h193" stroke="#527286" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="177" cy="277" r="6" fill="#34D399"/>
+  <circle cx="177" cy="310" r="6" fill="#67E8F9"/>
+  <circle cx="177" cy="340" r="6" fill="#34D399"/>
+  <rect x="454" y="199" width="297" height="158" rx="18" fill="#123047" stroke="#2B5265"/>
+  <path d="M493 253c0-18 14-32 32-32s32 14 32 32c0 24-32 50-32 50s-32-26-32-50Z" fill="#0E7490" fill-opacity=".4" stroke="#67E8F9" stroke-width="3"/>
+  <circle cx="525" cy="252" r="9" fill="#67E8F9"/>
+  <text x="577" y="241" fill="#D9F7F2" font-family="Arial, sans-serif" font-size="15" font-weight="700">NEARBY AVAILABILITY</text>
+  <path d="M577 269h137M577 297h118M577 325h129" stroke="#527286" stroke-width="7" stroke-linecap="round"/>
+</svg>

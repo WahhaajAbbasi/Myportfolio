@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+    scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@keyframes moveRightToLeft {
+  0% {
+    transform: translateX(100vw);
+  }
+  100% {
+    transform: translateX(-10vw);
+  }
+}
+@layer utilities {
+  .gradient-text {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500;
+  }
+
+  .gradient-bg {
+    @apply bg-gradient-to-r from-purple-500 to-cyan-500;
+  }
+}
+.active {
+  @apply bg-gradient-to-r from-purple-500 to-cyan-500 bg-clip-text text-transparent;
+}
+.hover-scale {
+  transition: transform 0.3s ease;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+}
+.hover-scales {
+  transition: transform 0.3s ease;
+}
+
+.hover-scales:hover {
+  transform: scale(1.2);
+}
